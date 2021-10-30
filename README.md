@@ -5,25 +5,19 @@
 In July 2019, I co-founded [Pragma](https://pragmalang.com/): a company dedicated to building great software development tools. We're primarily working on a new language for building GraphQL APIs through schema-driven development.
 
 ### Web Development
-In March 2018, I was hired as a Web developer at [CodeObia](http://codeobia.com/), Amman, where I practiced building full-stack web applications, mainly using JavaScript on both ends.
-
-The most valuable experience I acquired while working at CodeObia was in building highly dynamic data visualizations, using  Angular and HighCharts. Check out [AReS: The Agricultural Research e-Seeker](https://cgspace.cgiar.org/explorer/).
-
-Working at CodeObia also involved mobile application development using [NativeScript](https://www.nativescript.org/), a JavaScript framework that can be used in addition to Angular to build native Android and iOS applications from the same code base. 
-
-I left CodeObia in November 2018 to study more advanced areas of computer science and mathematics.
+I mainly use React with TypeScript on the front-end, and purely functional Scala on the back-end.
 
 ## Interests
 * Functional programming
 * Programming language design
-* Distributed systems and parallel computation
+* Distributed systems and parallel computing
 * Machine learning
 
   ### Primary Languages
   Scala, TypeScript
 
   ### Secondary Languages
-  Haskell, Rust, Elm, Java
+  Haskell, Elixir, Rust, Elm, Java
 
 ## Blog
 * [Functional Programming: The Simple Version](https://medium.com/heavenlyx/functional-programming-the-simple-version-63fe10678f6e) (2020)
