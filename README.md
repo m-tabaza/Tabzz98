@@ -24,6 +24,7 @@ Chek out my [LinkedIn](https://linkedin.com/in/muhammad-tabaza) profile. Follow 
   Haskell, Elixir, Rust, Elm, Java
 
 ## Blog Posts
+* [Mindless Learning](https://github.com/Tabzz98/Tabzz98/blob/main/blog/Mindless%20Learning.md) (2022)
 * [Functional Programming: The Simple Version](https://medium.com/heavenlyx/functional-programming-the-simple-version-63fe10678f6e) (2020)
 * [A Guide to Scala 3](https://medium.com/heavenlyx/a-guide-to-scala-3-8a3bad7eee71) (2019)
 * [The Scala Collections Library](https://medium.com/heavenlyx/the-scala-collections-library-173ca624fb8d) (2019)
