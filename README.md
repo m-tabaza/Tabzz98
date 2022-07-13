@@ -23,6 +23,8 @@ Chek out my [LinkedIn](https://linkedin.com/in/muhammad-tabaza) profile. Follow 
   ### Secondary Languages
   Haskell, Elixir, Rust, Elm, Java
 
+Take a look at [my stack](https://github.com/stars/Tabzz98/lists/my-stack) for more clarity.
+
 ## Blog Posts
 * [Mindless Learning](https://github.com/Tabzz98/Tabzz98/blob/main/blog/Mindless%20Learning.md) (2022)
 * [Functional Programming: The Simple Version](https://medium.com/heavenlyx/functional-programming-the-simple-version-63fe10678f6e) (2020)
