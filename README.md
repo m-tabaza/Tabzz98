@@ -1,29 +1,31 @@
-### Hi, I'm Muhammad
-
 ## What I Do
 
-### Programming Languages
-In July 2019, I co-created [Pragma](https://pragmalang.com/): a language for effortlessly creating elegant GraphQL APIs. More recently, I've been experimenting with purely functional visual programming language design.
+<h3><p align="center">Product Engineering</p></h3>
+<p align="center">
+  In April 2021, I joined <a href="https://businesschat.io">BusinessChat</a> as a founding engineer, where I've been working on many areas of the product. Mainly, I've implemented the chat bot runtime, and large parts of the Whatsapp marketing engine.
+</p>
 
-### Product Engineering
-In April 2021, I joined [BusinessChat](https://businesschat.io) as a founding engineer, where I've been working on many areas of the product. Mainly, I've implemented the chat bot runtime, and large parts of the Whatsapp marketing engine.
+<h3><p align="center">Programming Languages</p></h3>
+<p align="center">
+  In July 2019, I co-created <a href="https://pragmalang.com/">Pragma</a>: a language for effortlessly creating elegant GraphQL APIs. More recently, I've been experimenting with purely functional visual programming language design.
+</p>
 
 ## Social
-Chek out my [LinkedIn](https://linkedin.com/in/muhammad-tabaza) profile. Follow me to get a thought-provoking post every now and then.
+Contact me on [LinkedIn](https://linkedin.com/in/muhammad-tabaza). Follow me to get a thought-provoking post every now and then.
 
 ## Interests
+* Distributed systems
 * Functional programming
 * Programming language design
-* Distributed systems
 * Machine learning
 
   ### Primary Languages
-  Scala, TypeScript
+  Scala, TypeScript, Kotlin
 
   ### Secondary Languages
-  Haskell, Elixir, Rust, Elm, Java
+  Haskell, Python, Elixir, Rust, Elm, Java
 
-Take a look at [my stack](https://github.com/stars/Tabzz98/lists/my-stack) for more clarity.
+Take a look at [my stack](https://github.com/stars/m-tabaza/lists/my-stack) for more.
 
 ## Blog Posts
 * [Mindless Learning](https://github.com/Tabzz98/Tabzz98/blob/main/blog/Mindless%20Learning.md) (2022)
