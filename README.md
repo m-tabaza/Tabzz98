@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/from-zero-to-hero.jpg" />
+</p>
+
 ## What I Do
 
 <h3><p align="center">Product Engineering</p></h3>
