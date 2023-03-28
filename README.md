@@ -32,6 +32,7 @@ Contact me on [LinkedIn](https://linkedin.com/in/muhammad-tabaza). Follow me to 
 Take a look at [my stack](https://github.com/stars/m-tabaza/lists/my-stack) for more.
 
 ## Blog Posts
+* [How Two WhatsApp Chat Bots Had a Fight](https://www.linkedin.com/pulse/how-two-whatsaapp-chat-bots-had-fight-muhammad-tabaza/) (2022)
 * [Mindless Learning](https://github.com/Tabzz98/Tabzz98/blob/main/blog/Mindless%20Learning.md) (2022)
 * [Functional Programming: The Simple Version](https://medium.com/heavenlyx/functional-programming-the-simple-version-63fe10678f6e) (2020)
 * [A Guide to Scala 3](https://medium.com/heavenlyx/a-guide-to-scala-3-8a3bad7eee71) (2019)
