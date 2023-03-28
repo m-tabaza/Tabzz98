@@ -2,16 +2,16 @@
   <img src="./img/from-zero-to-hero.jpg" />
 </p>
 
-## What I Do
+## SaaS I've Built
 
 <h3><p align="center">Product Engineering</p></h3>
 <p align="center">
-  In April 2021, I joined <a href="https://businesschat.io">BusinessChat</a> as a founding engineer, where I've been working on many areas of the product. Mainly, I've implemented the chat bot runtime, and large parts of the Whatsapp marketing engine.
+  In April 2021, I joined <a href="https://businesschat.io">BusinessChat</a> as a founding engineer, building marketing automation and customer support tools.
 </p>
 
 <h3><p align="center">Programming Languages</p></h3>
 <p align="center">
-  In July 2019, I co-created <a href="https://pragmalang.com/">Pragma</a>: a language for effortlessly creating elegant GraphQL APIs. More recently, I've been experimenting with purely functional visual programming language design.
+  In July 2019, I co-created <a href="https://pragmalang.com/">Pragma</a>, a language for effortlessly creating elegant GraphQL APIs.
 </p>
 
 ## Social
