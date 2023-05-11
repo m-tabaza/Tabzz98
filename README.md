@@ -17,17 +17,95 @@
 ## Social
 Contact me on [LinkedIn](https://linkedin.com/in/muhammad-tabaza). Follow me to get a thought-provoking post every now and then.
 
-## Interests
-* Distributed systems
-* Functional programming
-* Programming language design
-* Machine learning
+## Experience
+```mermaid
+mindmap
+  root((Experience))
+    ((Backend Dev))
+      ((Scala))
+        (Cats)
+        (Cats Effect)
+        (Kittens)
+        (Droste)
+        (Http4s)
+        (Doobie)
+        (Tapir)
+        (Fs2)
+        (Caliban)
+        (Circe)
 
-  ### Primary Languages
-  Scala, TypeScript, Kotlin
+      ((Kotlin))
+        (Spring Boot)
+        (Micrometer)
+        (Jooq)
+  
+      ((Elixir))
+        (Ecto)
+        (Absinthe)
+        (Phoenix)
+  
+      ((JS/TS))
+        (Express)
+        (NestJS)
+        (TypeORM)
+        (KnexJS)
+      
+    ((Frontend Dev))
+      (React)
+      (Redux)
+      (RxJS)
+      (Angular)
+      (TyprScript)
+      (ReScript)
+      
+    ((DevOps))
+      (GitHub Actions)
 
-  ### Secondary Languages
-  Haskell, Python, Elixir, Rust, Elm, Java
+      ((Observability))
+        (OpenTelemetry)
+        (Grafana)
+        (Grafana Tempo)
+        (Grafana Loki)
+        (Prometheus)
+
+      ((Google Cloud))
+        (App Engine)
+        (Compute Engine)
+        (Cloud SQL)
+        (Memorystore)
+        (Cloud Pub/Sub)
+        (Logging)
+
+    ((Databases))
+      (PostgreSQL)
+      (Redis)
+      (Elasticsearch)
+```
+
+## Tinkering
+```mermaid
+mindmap
+  root((Tinkering))
+    ((Functional Programming))
+      (Haskell)
+      (Idris)
+      (Elm)
+      (Recursion Schemes)
+      (MTL)
+    
+    ((Language Design))
+      (Pragma)
+      (Pirene)
+
+    ((Machine Learning))
+      (Huggingface)
+      (Fast.ai)
+      (Pyplot)
+      (Pandas)
+      (LLMs)
+
+    ((Kubernetes))
+```
 
 Take a look at [my stack](https://github.com/stars/m-tabaza/lists/my-stack) for more.
 
