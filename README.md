@@ -75,6 +75,7 @@ mindmap
         (Memorystore)
         (Cloud Pub/Sub)
         (Logging)
+        (Cloud Storage)
 
     ((Databases))
       (PostgreSQL)
