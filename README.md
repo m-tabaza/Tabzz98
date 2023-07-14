@@ -73,9 +73,10 @@ mindmap
         (Compute Engine)
         (Cloud SQL)
         (Memorystore)
-        (Cloud Pub/Sub)
-        (Logging)
+        (Pub/Sub)
         (Cloud Storage)
+        (Dataflow)
+        (BigQuery)
 
     ((Databases))
       (PostgreSQL)
