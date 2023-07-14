@@ -76,12 +76,12 @@ mindmap
         (Pub/Sub)
         (Cloud Storage)
         (Dataflow)
-        (BigQuery)
 
     ((Databases))
       (PostgreSQL)
       (Redis)
       (Elasticsearch)
+      (BigQuery)
 ```
 
 ## Tinkering
