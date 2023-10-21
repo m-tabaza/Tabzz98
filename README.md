@@ -66,7 +66,6 @@ mindmap
         (Grafana)
         (Grafana Tempo)
         (Grafana Loki)
-        (Prometheus)
 
       ((Google Cloud))
         (App Engine)
@@ -75,7 +74,6 @@ mindmap
         (Memorystore)
         (Pub/Sub)
         (Cloud Storage)
-        (BigQuery)
         (Cloud Batch)
 
     ((Databases))
