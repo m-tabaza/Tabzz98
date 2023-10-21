@@ -75,7 +75,8 @@ mindmap
         (Memorystore)
         (Pub/Sub)
         (Cloud Storage)
-        (Dataflow)
+        (BigQuery)
+        (Cloud Batch)
 
     ((Databases))
       (PostgreSQL)
