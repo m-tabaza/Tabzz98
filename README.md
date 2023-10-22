@@ -98,12 +98,11 @@ mindmap
       (Pragma)
       (Pirene)
 
-    ((Machine Learning))
-      (Huggingface)
-      (Fast.ai)
-      (Pyplot)
-      (Pandas)
-      (LLMs)
+    ((Programming Languages))
+      (Rust)
+      (Go)
+      (HVM)
+      (OCaml)
 
     ((Kubernetes))
 ```
