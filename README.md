@@ -23,20 +23,13 @@ mindmap
   root((Experience))
     ((Backend Dev))
       ((Scala))
-        (Cats)
-        (Cats Effect)
-        (Kittens)
-        (Droste)
-        (Http4s)
-        (Doobie)
+        (Typelevel)
         (Tapir)
-        (Fs2)
         (Caliban)
-        (Circe)
 
       ((Kotlin))
         (Spring Boot)
-        (Micrometer)
+        (Ktor)
         (Jooq)
   
       ((Elixir))
@@ -46,12 +39,12 @@ mindmap
   
       ((JS/TS))
         (Express)
-        (NestJS)
-        (TypeORM)
-        (KnexJS)
+        (Kysley)
+        (tRPC)
       
     ((Frontend Dev))
       (React)
+      (Next.js)
       (Redux)
       (RxJS)
       (Angular)
@@ -63,12 +56,10 @@ mindmap
 
       ((Observability))
         (OpenTelemetry)
-        (Grafana)
-        (Grafana Tempo)
-        (Grafana Loki)
+        (Grafana Stack)
 
       ((Google Cloud))
-        (App Engine)
+        (Cloud Run)
         (Compute Engine)
         (Cloud SQL)
         (Memorystore)
@@ -81,6 +72,10 @@ mindmap
       (Redis)
       (Elasticsearch)
       (BigQuery)
+
+    ((Data Eng))
+      (Airbyte)
+      (Windmill)
 ```
 
 ## Tinkering
